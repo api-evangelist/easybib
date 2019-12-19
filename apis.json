@@ -1,0 +1,73 @@
+{
+    "name": "EasyBib",
+    "description": "Automatic works cited and bibliography formatting for MLA, APA and Chicago\/Turabian citation styles. Now supports 7th edition of MLA.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/767-easybib.jpg",
+    "tags": [
+        "api provider",
+        "bibliography",
+        "bookmarks",
+        "citations",
+        "have api",
+        "libraries",
+        "marketplaces"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/easybib\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "EasyBib",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/767-easybib.jpg",
+            "humanURL": "http:\/\/www.easybib.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/easybib-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Base",
+            "url": "http:\/\/api.easybib.com"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/content.easybib.com\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/content.easybib.com\/feed\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/easybib"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/easybib"
+        },
+        {
+            "type": "Developers",
+            "url": "http:\/\/www.easybib.com\/developer"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/easybib"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/#!\/EasyBib"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.easybib.com"
+        }
+    ]
+}
